@@ -1,0 +1,5 @@
+{
+  "baseUrlAuth": "https://192.168.65.16:44338/api/",
+  "baseUrlResource": "https://192.168.65.16:44320/api/",
+  "timeout": 12000
+}

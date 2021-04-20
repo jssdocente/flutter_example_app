@@ -1,0 +1,5 @@
+{
+  "baseUrlAuth": "https://ambucoex.dynns.com:44338/api/",
+  "baseUrlResource": "https://ambucoex.dynns.com:44320/api/",
+  "timeout": 12000
+}

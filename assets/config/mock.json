@@ -1,0 +1,4 @@
+{
+  "baseUrlAuth": "https://10.0.2.2:44337/api/",
+  "baseUrlResource": "https://10.0.2.2:44319/api/"
+}

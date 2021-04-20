@@ -1,0 +1,1 @@
+export 'personal_name.vo.dart';
